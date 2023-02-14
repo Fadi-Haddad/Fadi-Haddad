@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fadi Haddad</h1>
 <h3 align="center">An SEFactory student aspiring to become a full stack web developer</h3>
-(img align="right" alt="Coding" width="400" src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png")
+<img align="right" alt="Coding" width="400" src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadi-haddad-235&label=Profile%20views&color=0e75b6&style=flat" alt="fadi-haddad-235" /> </p>
 
 - 🌱 I’m currently learning **HTML , CSS , GIT & GITHUB**
