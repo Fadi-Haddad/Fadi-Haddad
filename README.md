@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React, React Native, Svelte**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/fadi-haddad](https://github.com/fadi-haddad)
+- 👨‍💻 All of my projects are available at [https://github.com/Fadi-Haddad](https://github.com/fadi-haddad)
 
-- 📫 Reach out to me on LinkedIn: **https://www.linkedin.com/in/fadi-haddad-79ab79265/**
+- 📫 Reach out to me on LinkedIn: **https://www.linkedin.com/in/the-fadi-haddad**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
