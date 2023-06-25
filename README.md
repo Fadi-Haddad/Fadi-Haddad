@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadi-haddad-235&label=Profile%20views&color=0e75b6&style=flat" alt="fadi-haddad" /> </p>
 
-- 🌱 I’m currently learning **React, React Native, Svelte**.
+- 🌱 I’m currently learning **React, Solidity**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fadi-Haddad](https://github.com/fadi-haddad)
 
